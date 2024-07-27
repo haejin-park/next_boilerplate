@@ -1,6 +1,6 @@
 const people = [
-    {name: '안태진', role: '공동 창립자 / CEO', imageUrl: 'profile/IDPicture1.jpeg'},
-    {name: '박해진', role: '기술 이사', imageUrl: 'profile/IDPicture2.jpg'},
+    {name: '안태진', role: '공동 창립자 / CEO', imageUrl: 'profile/taejin.jpeg'},
+    {name: '박해진', role: '기술 이사', imageUrl: 'profile/haejin.jpg'},
 ];
 
 export default function Page() {

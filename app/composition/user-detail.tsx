@@ -4,7 +4,7 @@ import UserProfileCard from "./user-profile-card";
 
 export default function UserDetail() {
     const user = {
-        profilePicture:'profile/1.jpg',
+        profilePicture:'profile/haejin.jpg',
         name: 'Haejin Park',
         email: 'luckyhaejin1126@naver.com'
     };
